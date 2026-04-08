@@ -37,15 +37,15 @@
     "links": [
       {
         "label": "Apply",
-        "href": "mailto:careers@pingproxies.com"
+        "href": "mailto:careers@byteful.com"
       }
     ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/pingproxies",
-      "github": "https://github.com/Ping-Technology-Labs-LTD",
-      "linkedin": "https://linkedin.com/company/ping-proxies"
+      "x": "https://x.com/byteful",
+      "github": "https://github.com/pingproxies",
+      "linkedin": "https://linkedin.com/company/trybyteful"
     }
   }
 }
