@@ -17,6 +17,8 @@
             "group": "Careers",
             "pages": [
               "jobs",
+              "jobs/support-engineer",
+              "jobs/growth-operations",
               "jobs/content-writer",
               "jobs/frontend-engineer"
             ]
